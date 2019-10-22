@@ -7,7 +7,7 @@ namespace ConsoleCalculator
     {
         public static int Add(int val1, int val2)
         {
-            throw new NotImplementedException();
+            return val1 * val2;
         }
     }
 
